@@ -1,0 +1,14 @@
+Error tests:
+OK (5-6)5
+OK )
+OK 1C)
+OK 1)
+OK *-
+OK 1(1
+
+Phases:
+OK - breakline
+OK - Increase de window
+OK - Não maximizar
+OK - Comments
+OK - Erro não aparece mais
